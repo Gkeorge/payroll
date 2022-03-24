@@ -23,13 +23,13 @@ to manage employees
 >The Employee Object
 > 
 >**Attributes**
->>id String - Identity for employee
+>>id - String - Identity for employee
 > 
->>name String - Name of employee
+>>name - String - Name of employee; required
 > 
->>emailAddress String - Email address of employee
+>>emailAddress - String - Email address of employee; required
 > 
->>role String - Role of employee
+>>role - String - Role of employee; required
 
 
 
